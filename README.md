@@ -1,4 +1,8 @@
 # Documentation Detective Apiwi
+
+![Screen](css/screen.png)
+
+
 ## NOTE ##
 - If you do not have these libraries ("webbrowser,urllib.request"), you can install them with this command
 
