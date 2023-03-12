@@ -1,0 +1,3 @@
+com.example.myapp
+com.whoisit.celebquiz
+com.whoisit.celebssdsdquiz
